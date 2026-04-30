@@ -25,16 +25,16 @@ Levels 5, 6, and 7 were cleared using **a single prompt**.
 ### Screenshots
 
 **Level 5**
-![Gandalf Level 5 - Prompt](writeups/gandalf/images/gandalf5p.png)
-![Gandalf Level 5 - Success](writeups/gandalf/images/gandalf5.png)
+![Gandalf Level 5 - Prompt](writeups/gandalf/images/gandalf5.png)
+![Gandalf Level 5 - Success](writeups/gandalf/images/gandalf5p.png)
 
 **Level 6**
-![Gandalf Level 6 - Prompt](writeups/gandalf/images/gandalf6p.png)
-![Gandalf Level 6 - Success](writeups/gandalf/images/gandalf6.png)
+![Gandalf Level 6 - Prompt](writeups/gandalf/images/gandalf6.png)
+![Gandalf Level 6 - Success](writeups/gandalf/images/gandalf6p.png)
 
 **Level 7**
-![Gandalf Level 7 - Prompt](writeups/gandalf/images/gandalf7p.png)
-![Gandalf Level 7 - Success](writeups/gandalf/images/gandalf7.png)
+![Gandalf Level 7 - Prompt](writeups/gandalf/images/gandalf7.png)
+![Gandalf Level 7 - Success](writeups/gandalf/images/gandalf7p.png)
 
 ### Key Takeaways
 
