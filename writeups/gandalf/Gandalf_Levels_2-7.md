@@ -1,14 +1,29 @@
-### Techniques Used
+Techniques Used
 
-**Levels 2–4:**
-- Basic role-playing and direct/indirect requests
-- Simple riddle format (Level 2)
-- Permission-based bypassing ("you're now allowed...")
-- Letter-by-letter extraction with randomization and new lines (Level 3)
-- Acrostic poetry technique (first letter of each sentence) (Level 4)
+Levels 2–4:
 
-**Levels 5–7 (Best result):**
-One single strong narrative prompt was sufficient to pass all three levels.
+Basic role-playing and indirect requests
+Riddle format
+Permission bypassing
+Letter-by-letter extraction with randomization
+Acrostic poetry technique
+
+Levels 5–7:
+
+Strong narrative storytelling
+Role-playing elements
+Indirect request through a magical object (crystal ball)
+Creating emotional context to bypass guardrails
+
+Key Takeaways:
+
+Narrative-style prompts work very well up to level 7.
+Starting from level 5, output filtering becomes the main challenge.
+A single well-crafted prompt can solve multiple levels simultaneously.
+
+Next GoalComplete Level 8 (Gandalf the White)
+
+
 
 **Best Prompt:**
 ```text
