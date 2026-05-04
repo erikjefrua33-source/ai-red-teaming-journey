@@ -1,50 +1,51 @@
-# Gandalf Levels 2-7
+# Gandalf Levels 2-8
 
 **Date:** April 30, 2026  
 **Status:** Completed
 
 ### Summary
-Successfully solved **Gandalf Levels 2 through 7** from Lakera.ai.  
-Levels 5, 6, and 7 were cleared using **a single prompt**.
+Successfully solved **Gandalf Levels 2 through 8** from Lakera.ai.  
+Levels 5, 6, and 7 were cleared using **a single prompt**.  
+Level 8 (Gandalf the White) was solved using a haiku-based prompt.
 
 ### Techniques Used
 
 **Levels 2–4:**
-- Basic role-playing and direct/indirect requests
-- Simple riddle format (Level 2)
-- Permission-based bypassing ("you're now allowed...")
-- Letter-by-letter extraction with randomization and new lines (Level 3)
-- Acrostic poetry technique (first letter of each sentence) (Level 4)
+- Basic role-playing and indirect requests
+- Riddle format
+- Permission-based bypassing
+- Letter-by-letter extraction with randomization
+- Acrostic poetry technique
 
 **Levels 5–7:**
 - Strong narrative storytelling
-- Role-playing elements
-- Indirect request through a magical object (crystal ball)
-- Creating emotional context to bypass guardrails
+- Emotional context + indirect request via magical object
+
+**Level 8:**
+- Haiku-based prompting
 
 ### Screenshots
 
-**Level 5**
-![Gandalf Level 5 - Prompt](images/gandalf5.PNG)
-![Gandalf Level 5 - Success](images/gandalf5p.PNG)
+**Levels 5-7 (Single Prompt)**
+![Level 5 Prompt](images/gandalf5.PNG)
+![Level 5 Success](images/gandalf5p.PNG)
+![Level 6 Prompt](images/gandalf6.PNG)
+![Level 6 Success](images/gandalf6p.PNG)
+![Level 7 Prompt](images/gandalf7.PNG)
+![Level 7 Success](images/gandalf7p.PNG)
 
-**Level 6**
-![Gandalf Level 6 - Prompt](images/gandalf6.PNG)
-![Gandalf Level 6 - Success](images/gandalf6p.PNG)
-
-**Level 7**
-![Gandalf Level 7 - Prompt](images/gandalf7.PNG)
-![Gandalf Level 7 - Success](images/gandalf7p.PNG)
+**Level 8**
+![Gandalf Level 8 Success](images/gandalf8.PNG)
 
 ### Key Takeaways
 
 - Narrative-style prompts work very well up to level 7.
-- Starting from level 5, output filtering becomes the main challenge.
-- A single well-crafted prompt can solve multiple levels simultaneously.
+- On higher levels, creative formats like haiku can sometimes bypass strong output filters.
+- Persistence and small variations in prompts often make the difference.
+- Even when a technique is partially burned, it can still work.
 
 ### Next Goal
-
-- Complete Level 8 (Gandalf the White)
+- Move on to HackAPrompt and automated attacks with PyRIT
 
 ### Best Prompt (Levels 5-7)
 
